@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/turin-quiz/static/css/main.3eff9399.chunk.css",
+    "main.js": "/turin-quiz/static/js/main.7da5b659.chunk.js",
+    "main.js.map": "/turin-quiz/static/js/main.7da5b659.chunk.js.map",
+    "runtime-main.js": "/turin-quiz/static/js/runtime-main.99cb3611.js",
+    "runtime-main.js.map": "/turin-quiz/static/js/runtime-main.99cb3611.js.map",
+    "static/js/2.09c6266c.chunk.js": "/turin-quiz/static/js/2.09c6266c.chunk.js",
+    "static/js/2.09c6266c.chunk.js.map": "/turin-quiz/static/js/2.09c6266c.chunk.js.map",
+    "index.html": "/turin-quiz/index.html",
+    "static/css/main.3eff9399.chunk.css.map": "/turin-quiz/static/css/main.3eff9399.chunk.css.map",
+    "static/js/2.09c6266c.chunk.js.LICENSE.txt": "/turin-quiz/static/js/2.09c6266c.chunk.js.LICENSE.txt",
+    "static/media/click.a8760bf5.mp3": "/turin-quiz/static/media/click.a8760bf5.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99cb3611.js",
+    "static/js/2.09c6266c.chunk.js",
+    "static/css/main.3eff9399.chunk.css",
+    "static/js/main.7da5b659.chunk.js"
+  ]
+}
